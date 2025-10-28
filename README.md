@@ -32,6 +32,9 @@ _Buyer Features_
    View and manage past orders
    Download PDF invoices
 
+   **HOME** <img width="1896" height="973" alt="image" src="https://github.com/user-attachments/assets/3bb5af25-8578-4005-b5cf-e4170c40b870" />
+   **MY ORDER** <img width="1763" height="852" alt="image" src="https://github.com/user-attachments/assets/e12b679a-80d2-40c1-bf24-8f9b580ff84b" />
+
 _Seller Features_
 
   Secure seller authentication
@@ -40,6 +43,11 @@ _Seller Features_
   Update order status
   Track sales statistics and revenue
   Download customer invoices
+
+  **Seller Panel** <img width="1851" height="943" alt="image" src="https://github.com/user-attachments/assets/416c828e-f983-4862-a47d-6eb6b97aa214" />
+  **Order Page** <img width="1467" height="847" alt="image" src="https://github.com/user-attachments/assets/66852098-10fb-4172-9a31-62a1852da01e" />
+
+
 
 ⚙️ Admin/General
 
